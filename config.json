@@ -1,0 +1,32 @@
+{
+  "allies": [
+    "[Love]"
+  ],
+  "enemies": [
+    "Rex",
+    "[Wipe]",
+    "[4B]",
+    "[IKOA]",
+    "[K0A]",
+    "[KOA]",
+    "[Vex]",
+    "[BMF]",
+    "[17]",
+    "[812]",
+    "[RAVE]",
+    "[50-0]",
+    "[glock]"
+  ],
+  "neutrals": [
+    "[sRev]",
+    "[R8]",
+    "[2s]",
+    "[D3S]",
+    "[AR]"
+  ],
+  "styles": {
+    "ally": "color: lime; font-weight: bold; text-shadow: 0 0 5px black;",
+    "enemy": "color: red; font-weight: bold; text-shadow: 0 0 5px black;",
+    "neutral": "color: gold; font-weight: bold; text-shadow: 0 0 5px black;"
+  }
+}
