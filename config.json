@@ -25,7 +25,9 @@
     "[R8]",
     "[2s]",
     "[D3S]",
-    "[AR]"
+    "[AR]",
+    "[Aura]",
+    "[Alors]",
   ],
   "styles": {
     "ally": "color: lime; font-weight: bold; text-shadow: 0 0 5px black;",
