@@ -1,8 +1,11 @@
 {
   "allies": [
-    "[Love]"
+    "[Love]",
+    "[Value]"
   ],
   "enemies": [
+    "lKOA",
+    "Spectre",
     "Rex",
     "[Wipe]",
     "[4B]",
