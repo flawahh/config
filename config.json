@@ -1,10 +1,12 @@
 {
   "allies": [
     "[Love]",
-    "[Value]"
+    "[Value]",
+    "[GodPy]"
   ],
   "enemies": [
-    "[Oath]",
+    "Hayati",
+    "sophyre",
     "Riekale",
     "INeverMissI",
     "QuandaviousDingle",
